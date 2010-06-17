@@ -1,8 +1,6 @@
-My VS Themes
+Themes I like
 ------------
 
-This is intended to be a collection of themes I use to make Visual Studio a bit less painful.
+A collection of themes for various IDEs
 
-Currently this list consists of:
-
-* railscasts.vssettings - Inspired by [ryanb](http://github.com/ryanb/ "ryanb")'s [textmate-themes](http://github.com/ryanb/textmate-themes "textmate-themes")
+railscasts themes - Inspired by [ryanb](http://github.com/ryanb/ "ryanb")'s [textmate-themes](http://github.com/ryanb/textmate-themes "textmate-themes")
